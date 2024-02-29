@@ -12,6 +12,6 @@ app.get("/", (req, res) => {
 });
 
 app.use("/", redirect);
-//app.use("/url", url);
+app.use("/url", url);
 
 module.exports = app;
