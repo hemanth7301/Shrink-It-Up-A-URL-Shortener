@@ -1,7 +1,7 @@
 {
-  "name": "URL Shortener",
+  "name": "URLShortener",
   "version": "1.0.0",
-  "description": "URL Shortener",
+  "description": "URL_Shortener",
   "main": "index.js",
   "engines": {
     "node": ">=16.0.0"
