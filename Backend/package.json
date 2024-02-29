@@ -1,0 +1,23 @@
+{
+  "name": "URL Shortener",
+  "version": "1.0.0",
+  "description": "URL Shortener",
+  "main": "index.js",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js"
+  },
+  "author": "Hemanth Sakhamuri",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4",
+    "nodemon": "^3.0.1",
+    "valid-url": "^1.0.9"
+  }
+}
