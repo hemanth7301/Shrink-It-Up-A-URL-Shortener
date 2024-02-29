@@ -1,6 +1,6 @@
 const express = require("express");
 const redirect = require("./controllers/redirects.controller");
-//const url = require("./controllers/url.controller");
+const url = require("./controllers/url.controller");
 var cors = require("cors");
 
 const app = express();
