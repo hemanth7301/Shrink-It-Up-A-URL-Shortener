@@ -8,4 +8,4 @@ A Web Based Application that converts long URLs to shortened URLs with a single 
   
 ## Technical Overview
 - Implemented the shortID functionality using Base 62 encoding
-- The Backend is hosted here [Render](https://urlshortener-sel0.onrender.com/)
+- The Backend Service is hosted here [Render](https://urlshortener-sel0.onrender.com/)
